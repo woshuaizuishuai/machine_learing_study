@@ -1,1 +1,1 @@
-# machine_learing_study
+这是我在学习机器学习过程中的笔记
